@@ -96,21 +96,20 @@ textarea {
     border-radius: 20px;
     font-size: 30px;
 }
+.textarea-mail,
+.textarea-name {
+    width: 40%;
+    height: 50px;
+    border-radius: 20px;
+    font-size: 30px;
+}
 .submit {
     background-color: black;
     color: white;
     font-size: 20px;
-    width: 500px;
+    width: 40%;
     height: 60px;
     border-radius: 20px;
-}
-
-.textarea-mail,
-.textarea-name {
-    width: 500px;
-    height: 50px;
-    border-radius: 20px;
-    font-size: 30px;
 }
 
 /*------フッター-------*/
